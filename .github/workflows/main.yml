@@ -1,8 +1,8 @@
 name: Generate Stats Images
 
 on:
-    schedule:
-        - cron: '5 */12 * * *'
+    schedule: # Schedule updates (each 6 hours)
+        - cron: '5 */6 * * *'
     workflow_dispatch:
 
 permissions:
