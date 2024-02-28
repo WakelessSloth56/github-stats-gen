@@ -124,7 +124,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #b07219;width: 81.399%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 6.516%;" class="progress-item"></span><span style="background-color: #3178c6;width: 5.961%;" class="progress-item"></span><span style="background-color: #3572A5;width: 2.251%;" class="progress-item"></span><span style="background-color: #02303a;width: 1.643%;" class="progress-item"></span><span style="background-color: #563d7c;width: 0.810%;" class="progress-item"></span><span style="background-color: #4F5D95;width: 0.492%;" class="progress-item"></span><span style="background-color: #c6538c;width: 0.402%;" class="progress-item"></span><span style="background-color: #e34c26;width: 0.325%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.161%;" class="progress-item"></span><span style="background-color: #1d365d;width: 0.040%;" class="progress-item"></span>
+<span style="background-color: #b07219;width: 81.424%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 6.507%;" class="progress-item"></span><span style="background-color: #3178c6;width: 5.953%;" class="progress-item"></span><span style="background-color: #3572A5;width: 2.248%;" class="progress-item"></span><span style="background-color: #02303a;width: 1.640%;" class="progress-item"></span><span style="background-color: #563d7c;width: 0.809%;" class="progress-item"></span><span style="background-color: #4F5D95;width: 0.491%;" class="progress-item"></span><span style="background-color: #c6538c;width: 0.401%;" class="progress-item"></span><span style="background-color: #e34c26;width: 0.325%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.160%;" class="progress-item"></span><span style="background-color: #1d365d;width: 0.040%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -136,7 +136,7 @@ div.ellipsis {
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Java</span>
-<span class="percent">81.40%</span>
+<span class="percent">81.42%</span>
 </li>
 
 
@@ -145,7 +145,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">JavaScript</span>
-<span class="percent">6.52%</span>
+<span class="percent">6.51%</span>
 </li>
 
 
@@ -154,7 +154,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">TypeScript</span>
-<span class="percent">5.96%</span>
+<span class="percent">5.95%</span>
 </li>
 
 
@@ -208,7 +208,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">HTML</span>
-<span class="percent">0.33%</span>
+<span class="percent">0.32%</span>
 </li>
 
 
