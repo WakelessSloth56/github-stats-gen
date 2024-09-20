@@ -38,11 +38,11 @@ jobs:
                   python3 generate_images.py
                   cp -r generated ../
               env:
-                  USERNAME: WakelessSloth56
+                  USERNAME: ${{ secrets.USERNAME }}
                   ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-                  #   EXCLUDED: ${{ secrets.EXCLUDED }}
+                  #   EXCLUDED_REPOS: ${{ secrets.EXCLUDED_REPOS }}
                   #   EXCLUDED_LANGS: ${{ secrets.EXCLUDED_LANGS }}
-                  EXCLUDE_FORKED_REPOS: true
+                  INCLUDED_OWNERS: ${{ secrets.INCLUDED_OWNERS }}
 
             - name: Commit to the repo
               run: |
